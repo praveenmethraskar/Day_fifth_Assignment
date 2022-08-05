@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Day_fifth_Assignment
+{
+    internal class Power_Of_2
+    {
+    }
+}
